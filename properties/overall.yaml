@@ -53,4 +53,4 @@ metric_decimal_place: 4         # (int) The decimal place of metric scores.
 
 
 # Algorithmic bias and fairness
-user_groups: 5
+user_groups: 3
